@@ -1,8 +1,8 @@
-Olá, eu sou o Davi! 👋
+Olá, meu nome é Davi! 👋
 
-### 👨‍💻 Desenvolvedor FullStack | Estudante de TI | Em busca de oportunidades de Estágio
+### 👨‍💻 Desenvolvedor FullStack
 
-Bem-vindo ao meu perfil! Sou um entusiasta por tecnologia e desenvolvimento de software, focado em criar soluções web eficientes, responsivas e seguras. Atualmente, estou aprofundando meus conhecimentos na faculdade de TI e desenvolvendo projetos práticos que resolvem problemas reais, sempre de olho em boas práticas de arquitetura e segurança da informação.
+Bem-vindo ao meu perfil! Sou um entusiasta por tecnologia e desenvolvimento de software, focado em criar soluções web eficientes, responsivas e seguras. Atualmente, estou aprofundando meus conhecimentos e desenvolvendo projetos práticos que resolvem problemas reais, sempre de olho em boas práticas de arquitetura e segurança da informação.
 
 **Meu principal objetivo no momento é ingressar no mercado através de um estágio na área de TI**, onde eu possa contribuir com minha energia, aprender com a vivência prática e gerar valor para a equipe e para o produto.
 
